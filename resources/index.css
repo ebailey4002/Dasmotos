@@ -1,0 +1,44 @@
+
+* {margin: 0;
+    Padding: 0;
+    Box-sizing: border-box; 
+}
+    
+
+.jumbotron {
+    font-family: helvetica;
+    color: khaki;
+}
+
+#section-1 {
+    font-size: 100px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: helvetica;
+}
+
+.brushes {
+    background-color: mediumspringgreen;
+
+}
+
+.frames {
+    background-color: lightcoral;
+}
+
+.paint {
+    background-color: skyblue;
+}
+
+.brushes, .frames, .paint {
+    font-size: 2rem;
+    font-weight: bold;
+
+}
+
+span {
+    font-weight: bold;
+    color: blue;
+}
